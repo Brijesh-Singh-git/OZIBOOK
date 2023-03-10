@@ -7528,8 +7528,10 @@ button.bg-dark:focus {
 }
 
 .w-100 {
-  width: 100% !important;
+  width: 102% !important;
+  height: 248px;
 }
+
 
 .w-auto {
   width: auto !important;
@@ -7864,7 +7866,8 @@ button.bg-dark:focus {
 
 .pl-5,
 .px-5 {
-  padding-left: 3rem !important;
+  padding-left: 2rem !important;
+  margin-bottom: 18px
 }
 
 .m-n1 {
@@ -9464,6 +9467,7 @@ button.bg-dark:focus {
 @media (min-width: 992px) {
   .text-lg-left {
     text-align: left !important;
+    margin-top: 17px
   }
   .text-lg-right {
     text-align: right !important;
